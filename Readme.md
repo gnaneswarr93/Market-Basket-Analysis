@@ -36,4 +36,6 @@ The Data Overview section provides a glimpse of the dataset, including transacti
 - **Market Basket Analysis**
 The Market Basket Analysis section runs the Apriori algorithm to discover frequent itemsets and association rules. Visualizations of support vs. confidence and support vs. lift are also provided.
 
-
+### The below link directs you to the implementation
+```sh
+https://gnaneswarr93-market-basket-analysis-app-bgwobt.streamlit.app/
